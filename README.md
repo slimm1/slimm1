@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JAVA, HTML5, CSS, XML, LINUX AND SQL
+- 🌱 I’m currently learning JAVA, HTML5, CSS, XML, LINUX, C# AND SQL
 - 🔭 I’m currently working on my own WEB PORTFOLIO developed with ANGULAR and JAVASCRIPT
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimm1&layout=compact&theme=radical)
